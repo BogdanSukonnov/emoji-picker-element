@@ -28,7 +28,7 @@ export const MOST_COMMONLY_USED_EMOJI = [
 // updates faster than the underlying OS, and we don't want to render older emoji in one font and
 // newer emoji in another font:
 // https://github.com/nolanlawson/emoji-picker-element/pull/268#issuecomment-1073347283
-export const FONT_FAMILY = '"Twemoji Mozilla","Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol",' +
+export const FONT_FAMILY = '"Twemoji Country Flags","Twemoji Mozilla","Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol",' +
   '"Noto Color Emoji","EmojiOne Color","Android Emoji",sans-serif'
 
 /* istanbul ignore next */
